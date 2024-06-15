@@ -17,7 +17,7 @@ public class UsernamePasswardCheck {
             }
         }
         else{
-            System.out.print("Incorrect Username!");
+            System.out.print("Incorrect Username or Passward!");
         }
     }
 }
